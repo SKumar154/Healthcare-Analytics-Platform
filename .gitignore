@@ -15,3 +15,11 @@ ENV/
 # Python cache files
 _pycache_/
 *.py[cod]
+
+# Ignore these folders (These are for my own reference)
+Numpy/
+Pandas/
+main.py
+Libraries.md
+Python_Notes/
+DSA_Python/
