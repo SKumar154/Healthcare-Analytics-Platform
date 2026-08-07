@@ -1,8 +1,7 @@
 """
-=========================================================
+
 Healthcare Analytics Platform
 Configuration File
-=========================================================
 
 This file stores every configurable parameter
 used throughout the dataset generation process.
@@ -10,6 +9,7 @@ used throughout the dataset generation process.
 Changing values here automatically affects the
 entire project.
 """
+import os.path
 
 # =======================================================
 # DATASET SIZE
@@ -71,3 +71,8 @@ MAX_RATING = 5
 # =======================================================
 
 OUTPUT_FOLDER = "../data"
+
+# if os.path.exists(OUTPUT_FOLDER):
+#     print("Success")
+# else:
+#     print("Error")
