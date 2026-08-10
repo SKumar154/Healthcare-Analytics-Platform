@@ -7,10 +7,10 @@ venv/
 ENV/
 
 # Local data files (Prevents uploading heavy datasets)
-#*.csv
-#*.xlsx
-#*.json
-#*.sql
+*.csv
+*.xlsx
+*.json
+*.sql
 
 # Python cache files
 _pycache_/
