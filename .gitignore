@@ -11,6 +11,7 @@ ENV/
 *.xlsx
 *.json
 *.sql
+*.duckdb
 
 # Python cache files
 _pycache_/
@@ -24,3 +25,4 @@ Libraries.md
 Python_Notes/
 DSA_Python/
 Projects/
+
