@@ -10,7 +10,7 @@ ENV/
 *.csv
 *.xlsx
 *.json
-*.sql
+#*.sql
 *.duckdb
 
 # Python cache files
